@@ -16,7 +16,7 @@ Nessa base temos as seguintes informações:
 - Assistências
 - Roubos de Bola
 
-Em paralelo foram obtidas bases com as informações de classificação de cada time na temporada para considerar a força dos adversários. Também foi obtida as estatísticas avançadas de cada time na temporada para obter o deFG% (Rating defensivo) de cada time. 
+Em paralelo foram obtidas bases com as informações de classificação de cada time na temporada para considerar a força dos adversários. Também foi obtida as estatísticas avançadas de cada time na temporada para obter o DRtg (Rating defensivo) de cada time. 
 
 Com essas informações, foram obtidas as métricas de cada estatística de curry por temporada e na carreira, podendo ser considerado apenas para jogos mandantes, visitantes, adversários com aproveitamento acima de 50%, etc.
 
